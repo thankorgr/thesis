@@ -51,6 +51,7 @@ public class hierarchy_generation {
 		
 	}
 	System.out.println("Done!");
+	keyboard.close();
 		//enter root grandchildren names (loop)
 	}
 }
